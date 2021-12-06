@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ScientificCalculator</string>
+
+    <!--numbers-->
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+
+    <!--math ops-->
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMul">*</string>
+    <string name="btnDiv">/</string>
+
+    <!--other-->
+    <string name="btnAC">AC</string>
+    <string name="btnSign">+/-</string>
+    <string name="btnPer">%</string>
+    <string name="btnDec">.</string>
+    <string name="btnEqual">=</string>
+    <string name="error">Error</string>
+
+    <!--Scientific-->
+    <!--row1-->
+    <string name="btnLBracket">(</string>
+    <string name="btnRBracket">)</string>
+    <string name="btnMC">mc</string>
+    <string name="btnMemAdd">m+</string>
+    <string name="btnMemDel">m-</string>
+    <string name="btnMemRecall">mr</string>
+    <!--row2-->
+    <string name="btnSecond">2nd</string>
+    <string name="btnSquared">x²</string>
+    <string name="btnCubed">x³</string>
+    <string name="btnPower">xy</string>
+    <string name="btnExponent">ex</string>
+    <string name="btnTenToX">10x</string>
+    <!--row3-->
+    <string name="btnInverse">x^-1</string>
+    <string name="btnSquareRoot">√x</string>
+    <string name="btnCubeRoot">∛x</string>
+    <string name="btnNthRoot">n√x</string>
+    <string name="btnLn">ln</string>
+    <string name="btnLogTen">log10</string>
+    <!--row4-->
+    <string name="btnFactorial">x!</string>
+    <string name="btnSin">sin</string>
+    <string name="btnCos">cos</string>
+    <string name="btnTan">tan</string>
+    <string name="btnExp">e</string>
+    <string name="btnExpTen">EE</string>
+    <!--row5-->
+    <string name="btnRadians">Rad</string>
+    <string name="btnSinh">sinh</string>
+    <string name="btnCosh">cosh</string>
+    <string name="btnTanh">tanh</string>
+    <string name="btnPi">π</string>
+    <string name="btnRandom">Rand</string>
+</resources>
